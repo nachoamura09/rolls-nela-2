@@ -1,0 +1,24 @@
+body{
+    background-color:  #CBEB87;
+}
+h1{
+    border: 5px solid
+}
+.menubotonera{
+    position: center;
+    width: 900px;
+    height: 50px;
+    left: 79px;
+    top: 303px;
+    background: rgba(255, 255, 255, 0.3);
+    }
+.enlacemenu{
+    font-size: medium;
+    margin: 10px;
+    padding: 10px;
+    height: 10px;
+}
+
+.enlaceboton{
+    color: black;
+}
